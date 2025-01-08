@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,Python,C++ and Javascript**
 
-- ⚡ Fun fact **I have another passion motorcycles**
+- ⚡ Fun fact **I have another passion for motorcycles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
